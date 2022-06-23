@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+  }
+  
+body{
+    background: #FFFF90;
+  }
+  
+#theArea{
+    width: 200px;
+    height: 200px;
+    background-color: #953674;
+    display: grid;
+    align-items: center;
+  }
+  
+p {
+    font-size: 25px;
+    text-align: center;
+  }
